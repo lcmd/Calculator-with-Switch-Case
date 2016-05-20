@@ -1,0 +1,6 @@
+c:\users\wecancodeit\documents\visual studio 2015\Projects\calculator ch 12 switch case\calculator ch 12 switch case\bin\Debug\calculator ch 12 switch case.exe.config
+C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\calculator ch 12 switch case\calculator ch 12 switch case\bin\Debug\calculator ch 12 switch case.exe
+C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\calculator ch 12 switch case\calculator ch 12 switch case\bin\Debug\calculator ch 12 switch case.pdb
+C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\calculator ch 12 switch case\calculator ch 12 switch case\obj\Debug\calculator ch 12 switch case.csprojResolveAssemblyReference.cache
+C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\calculator ch 12 switch case\calculator ch 12 switch case\obj\Debug\calculator ch 12 switch case.exe
+C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\calculator ch 12 switch case\calculator ch 12 switch case\obj\Debug\calculator ch 12 switch case.pdb
